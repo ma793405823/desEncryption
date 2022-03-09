@@ -3,7 +3,7 @@
     "description": "maxiaojing is aplication info.",
     "keywords": ["php", "des"],
     "time": "2022-3-9",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "license": "MIT",
     "type": "des",
     "authors": [
