@@ -1,9 +1,9 @@
 {
-    "name": "mxj",
+    "name": "mxj/des",
     "description": "maxiaojing is aplication info.",
     "minimum-stability": "dev",
     "license": "Apache-2.0",
-    "type": "project",
+    "type": "des",
     "authors": [
         {
             "name": "mxj",
