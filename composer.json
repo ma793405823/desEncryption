@@ -1,12 +1,12 @@
 {
-    "name": "ma793405823",
-    "description": "maxiaojing.for more info.",
+    "name": "mxj",
+    "description": "maxiaojing is aplication info.",
     "minimum-stability": "dev",
     "license": "Apache-2.0",
     "type": "project",
     "authors": [
         {
-            "name": "ma793405823",
+            "name": "mxj",
             "email": "793405823@qq.com"
         }
     ]
