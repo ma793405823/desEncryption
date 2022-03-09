@@ -12,6 +12,14 @@
             "email": "793405823@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "des\\": "des"
+        },
+        "psr-0": {
+            "": "extend/"
+        }
+    },
     "require": {
         "php": ">=7.2.5"
     }
